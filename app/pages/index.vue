@@ -7,7 +7,7 @@
         </div>
         
         <div class="flex items-center gap-4">
-          <a href="/admin/login" class="text-sm font-medium hover:text-primary transition-colors">
+          <a href="/dashboard/login" class="text-sm font-medium hover:text-primary transition-colors">
             进入后台
           </a>
         </div>
@@ -25,7 +25,7 @@
       
       <div class="mt-10">
         <a 
-          href="/admin/login"
+          href="/dashboard/login"
           class="inline-flex items-center justify-center rounded-md bg-primary px-8 py-3 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
         >
           即刻管理你的链接
